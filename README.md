@@ -63,8 +63,6 @@ Each person with atypical T2D was matched to up to four people with typical T2D,
 │   │   └── tables/
 │   └── tables/                    # Tables 1–2 and model summaries
 │
-├── .gitignore
-├── diabetes_discordance_paper.Rproj
 └── README.md
 ```
 
