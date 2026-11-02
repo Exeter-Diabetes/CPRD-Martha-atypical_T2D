@@ -1,9 +1,9 @@
-# A risk model-based approach to identifying atypical type 2 diabetes at diagnosis using routine clinical features: a matched UK cohort study
+# A model-based approach to identifying atypical type 2 diabetes: UK population-based study
 
 **Analysis code repository**
 
 ## Study overview
-This repository contains the R code for "A risk model-based approach to identifying atypical type 2 diabetes at diagnosis using routine clinical features: a matched UK cohort study". This study uses QDiabetes to define a type 2 diabete phenotype at diagnosis. Adults newly diagnossed with T2D between January 2013 to March 2023 are classified as:
+This repository contains the R code for "A model-based approach to identifying atypical type 2 diabetes: UK population-based study". This study uses QDiabetes to define a type 2 diabete phenotype at diagnosis. Adults newly diagnossed with T2D between January 2013 to March 2023 are classified as:
 
 - **Atypical T2D:** QDiabetes 10-year risk score ≤5.6%.
 - **Typical T2D:** QDiabetes 10-year risk score >5.6%.
