@@ -1,0 +1,8 @@
+"Outcome","Atypical events","Atypical person-years","Atypical 10y risk % (95% CI)","Typical events","Typical person-years","Typical 10y risk % (95% CI)","HR (95% CI)"
+"Diabetic ketoacidosis",151,134138,"1.4 (1.1-1.8)",295,546594,"0.7 (0.6-0.9)","1.66 (1.29-2.15)"
+"Hypoglycaemia",258,133989,"2.2 (1.8-2.6)",781,545390,"2.0 (1.8-2.3)","1.24 (1.05-1.46)"
+"Cardiovascular mortality",413,134500,"3.5 (3.0-4.0)",1946,547597,"4.3 (4.0-4.6)","0.89 (0.79-1.00)"
+"Non-cardiovascular mortality",1673,134482,"12.2 (11.4-13.1)",5532,547534,"12.1 (11.7-12.6)","1.27 (1.20-1.36)"
+"First-line therapy initiation",21893,48011,"87.5 (86.6-88.4)",88778,196499,"89.8 (89.4-90.2)","1.04 (1.02-1.06)"
+"Second-line therapy initiation after metformin",7636,72409,"64.6 (63.1-66.1)",24824,235944,"67.6 (66.7-68.4)","1.00 (0.97-1.03)"
+"Insulin initiation",1312,103217,"11.3 (10.3-12.2)",3691,403801,"8.9 (8.5-9.3)","1.39 (1.29-1.50)"
